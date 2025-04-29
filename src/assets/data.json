@@ -1,0 +1,603 @@
+[    {
+        "Curso": "Fundamentos en DevOps, APIs y Arquitectura de Microservicios",
+        "Lugar": "Udemy",
+        "FechaExpedicion": "03-2025",
+        "Ambito": "DevOps",
+        "Framework": "Docker",
+        "VerCertificado": "<a href=''target='_blank'>Ver</a>"
+    },
+    {
+        "Curso": "Gestión de riesgos con ejemplos de software testing",
+        "Lugar": "Udemy",
+        "FechaExpedicion": "03-2025",
+        "Ambito": "Testing",
+        "Framework": "",
+        "VerCertificado": "<a href='https://udemy-certificate.s3.amazonaws.com/pdf/UC-8134610b-523c-4e32-a725-944713d5b167.pdf'target='_blank'>Ver</a>"
+    },
+    {
+        "Curso": "Gestión eficiente de pruebas con XRay",
+        "Lugar": "Udemy",
+        "FechaExpedicion": "03-2025",
+        "Ambito": "Testing",
+        "Framework": "XRay",
+        "VerCertificado": "<a href='https://udemy-certificate.s3.amazonaws.com/pdf/UC-74f64fea-b38d-44bd-a478-ee33814c0b12.pdf'target='_blank'>Ver</a>"
+    },
+    {
+        "Curso": "IPA Automatización de Procesos Inteligente con Python [2025]",
+        "Lugar": "Udemy",
+        "FechaExpedicion": "04-2025",
+        "Ambito": "Automation",
+        "Framework": "Python",
+        "VerCertificado": "<a href='https://udemy-certificate.s3.amazonaws.com/pdf/UC-abd15bcb-87b5-409e-a0b1-429966569656.pdf'target='_blank'>Ver</a>"
+    },
+    {
+        "Curso": "Master: Robot Framework con Python Test QA",
+        "Lugar": "Udemy",
+        "FechaExpedicion": "03-2025",
+        "Ambito": "Automation Testing",
+        "Framework": "Robot Framework",
+        "VerCertificado": "<a href='https://udemy-certificate.s3.amazonaws.com/pdf/UC-fd1c4579-7439-42d5-9298-23324f329fee.pdf'target='_blank'>Ver</a>"
+    },
+
+    {
+        "Curso": "Agile QA Project Management with Tools: Jira-Confluence-Xray-Zephyr and AgileTest",
+        "Lugar": "Instituto Web",
+        "FechaExpedicion": "02-2025",
+        "Ambito": "Testing",
+        "Framework": "Xray",
+        "VerCertificado": "<a href='https://www.institutoweb.com.ar/certificadosjira/docs/certificado_Agustina_Di_Natale.pdf'target='_blank'>Ver</a>"
+    },
+
+    {
+        "Curso": "ETL Data Testing: Everything You Need to Know",
+        "Lugar": "Udemy",
+        "FechaExpedicion": "02-2025",
+        "Ambito": "Data Testing",
+        "Framework": "ETL",
+        "VerCertificado": "<a href='https://udemy-certificate.s3.amazonaws.com/pdf/UC-f79b07a4-8ef2-42d5-8a9d-09711edd03f2.pdf'target='_blank'>Ver</a>"
+    },
+    {
+        "Curso": "Introducción a las pruebas de sistemas de IA",
+        "Lugar": "Udemy",
+        "FechaExpedicion": "02-2025",
+        "Ambito": "Testing",
+        "Framework": "",
+        "VerCertificado": "<a href='https://udemy-certificate.s3.amazonaws.com/pdf/UC-fb277dc1-273d-4b4f-856e-f765c2894c0c.pdf'target='_blank'>Ver</a>"
+    },
+    {
+        "Curso": "Mastering Playwright with TypeScript: Modern E2E Testing",
+        "Lugar": "Udemy",
+        "FechaExpedicion": "02-2025",
+        "Ambito": "Automation Testing",
+        "Framework": "Playwright",
+        "VerCertificado": "<a href='https://udemy-certificate.s3.amazonaws.com/pdf/UC-4e415e1f-96f7-4e27-82fa-0ef7c5ed6795.pdf'target='_blank'>Ver</a>"
+    },
+    {
+        "Curso": "Python and Selenium: Automation, PyTest, Web Interaction, and Best Practices",
+        "Lugar": "Udemy",
+        "FechaExpedicion": "02-2025",
+        "Ambito": "Automation Testing",
+        "Framework": "Selenium",
+        "VerCertificado": "<a href='https://udemy-certificate.s3.amazonaws.com/pdf/UC-902b8e25-025e-483f-b75f-92908a04a77f.pdf'target='_blank'>Ver</a>"
+    },
+    {
+        "Curso": "Asistente Virtual",
+        "Lugar": "Incluyeme.com",
+        "FechaExpedicion": "12-2024",
+        "Ambito": "Atención al Cliente",
+        "Framework": "",
+        "VerCertificado": "<a href='https://drive.google.com/file/d/1Xp4kgqIifNL3Ctj1wZJzcMIO-uSSTvwr/view?usp=sharing'target='_blank'>Ver</a>"
+    },
+    {
+        "Curso": "Introducción a la programación ",
+        "Lugar": "Incluyeme.com",
+        "FechaExpedicion": "12-2024",
+        "Ambito": "Programación",
+        "Framework": "",
+        "VerCertificado": "<a href='https://drive.google.com/file/d/1e_eQvEn2fTf3_CDueP5vrpD2Eg-kwKEJ/view?usp=sharing'target='_blank'>Ver</a>"
+    },
+    {
+        "Curso": "Soporte al Usuario/Atención al Cliente",
+        "Lugar": "Incluyeme.com",
+        "FechaExpedicion": "12-2024",
+        "Ambito": "Atención al Cliente",
+        "Framework": "",
+        "VerCertificado": "<a href='https://drive.google.com/file/d/1nsbUAICCjs9hTXeE7Mv4X2EJ1uASudq-/view?usp=sharing'target='_blank'>Ver</a>"
+    },    
+    {
+        "Curso": "Tester de Accesibilidad Web",
+        "Lugar": "Incluyeme.com",
+        "FechaExpedicion": "12-2024",
+        "Ambito": "Testing",
+        "Framework": "",
+        "VerCertificado": "<a href='https://drive.google.com/file/d/1F3QwX6in7XDLCR_GjL_vJiNC24XamA2y/view?usp=sharing'target='_blank'>Ver</a>"
+    },
+    {
+        "Curso": "Introducción a la Róbotica",
+        "Lugar": "Escuela Municipal de Talentos-Tandil",
+        "FechaExpedicion": "10-2024",
+        "Ambito": "Róbotica",
+        "Framework": "Arduino",
+        "VerCertificado": "<a href='https://www.linkedin.com/in/agusdinax/details/certifications/1732292692617/single-media-viewer/?profileId=ACoAAC85fRwBxxiktZqx1pnSrQb9y7oO8iuw-SM'target='_blank'>Ver</a>"
+    },
+    {
+        "Curso": "BASE DE DATOS SQL",
+        "Lugar": "ICARO",
+        "FechaExpedicion": "07-2024",
+        "Ambito": "Base de datos",
+        "Framework": "SQL",
+        "VerCertificado": "<a href='https://drive.google.com/file/d/1Wam3BLl9lYPqooKqXOoe6B0nii0gOOFm/view'target='_blank'>Ver</a>"
+    },
+    {
+        "Curso": "Testing QA",
+        "Lugar": "ICARO",
+        "FechaExpedicion": "07-2024",
+        "Ambito": "Testing",
+        "Framework": "",
+        "VerCertificado": "<a href='https://drive.google.com/file/d/1MYGkNbXM9wZ_N5sBtQeABAT4PdEW_P3G/view'target='_blank'>Ver</a>"
+    },
+    {
+        "Curso": "UX Research",
+        "Lugar": "Buenos Aires City Government",
+        "FechaExpedicion": "07-2024",
+        "Ambito": "UX Research",
+        "Framework": "",
+        "VerCertificado": "<a href='https://aulasvirtuales.bue.edu.ar/mod/customcert/view.php?id=579865&downloadown=1'target='_blank'>Ver</a>"
+    },
+    {
+        "Curso": "English for Developers & IT Professionals",
+        "Lugar": "Desafío Latam",
+        "FechaExpedicion": "06-2024",
+        "Ambito": "Inglés",
+        "Framework": "",
+        "VerCertificado": "<a href='https://cursos.desafiolatam.com/certificates/dqtaplbi06'target='_blank'>Ver</a>"
+    },
+    {
+        "Curso": "Taller - Figma",
+        "Lugar": "Desafío Latam",
+        "FechaExpedicion": "05-2024",
+        "Ambito": "UX/UI",
+        "Framework": "Figma",
+        "VerCertificado": "<a href='https://cursos.desafiolatam.com/certificates/6dueqqbpkl'target='_blank'>Ver</a>"
+    },
+    {
+        "Curso": "Automatización Mobile con Appium y WebdriverIO",
+        "Lugar": "Instituto Web",
+        "FechaExpedicion": "05-2024",
+        "Ambito": "Automation Testing",
+        "Framework": "Appium",
+        "VerCertificado": "<a href='https://www.institutoweb.com.ar/certificadosappium/docs/certificado_Agustina_Di_Natale.pdf'target='_blank'>Ver</a>"
+    },
+    {
+        "Curso": "Fotografía para Redes Avanzado",
+        "Lugar": "Escuela Municilal de Talentos - Tandil",
+        "FechaExpedicion": "Escuela Municipal de Talentos - Tandil",
+        "Ambito": "Fotografía",
+        "Framework": "05-2024",
+        "VerCertificado": "<a href=''target='_blank'>Ver</a>"
+    },
+    {
+        "Curso": "Fotografía para Redes ",
+        "Lugar": "Escuela Municipal de Talentos - Tandil",
+        "FechaExpedicion": "03-2024",
+        "Ambito": "Fotografía",
+        "Framework": "",
+        "VerCertificado": "<a href='https://drive.google.com/file/d/1Ndqbcq4dJZxOjuaJtJbY7fnH46PlGIpy/view?usp=drivesdk'target='_blank'>Ver</a>"
+    },
+    {
+        "Curso": "API Testing With Katalon",
+        "Lugar": "Katalon",
+        "FechaExpedicion": "11-2023",
+        "Ambito": "Testing",
+        "Framework": "Testing",
+        "VerCertificado": "<a href='https://academy.katalon.com/mcertificate/lp6569db5e3042e'target='_blank'>Ver</a>"
+    },
+    {
+        "Curso": "Diseño Gráfico Digital, Gestión de proyectos e Inteligencia Emocional",
+        "Lugar": "BA Joven",
+        "FechaExpedicion": "11-2023",
+        "Ambito": "Diseño Gráfico",
+        "Framework": "Diseño Gráfico",
+        "VerCertificado": "<a href='https://drive.google.com/file/d/1aYjt2LaJCk9GYIuvZH3dvZtxm1ilMDNH/view'target='_blank'>Ver</a>"
+    },
+    {
+        "Curso": "Testing de Api con Cypress y Artillery",
+        "Lugar": "Udemy",
+        "FechaExpedicion": "10-2023",
+        "Ambito": "Testing",
+        "Framework": "Testing",
+        "VerCertificado": "<a href='https://www.institutoweb.com.ar/certificadosartillery/docs/certificado_Agustina_Di_Natale.pdf'target='_blank'>Ver</a>"
+    },
+    {
+        "Curso": "Diseño y Administración de APIs con WSO2 API Management",
+        "Lugar": "Udemy",
+        "FechaExpedicion": "09-2023",
+        "Ambito": "Testing",
+        "Framework": "Testing",
+        "VerCertificado": "<a href='https://www.udemy.com/certificate/UC-8e68680c-799c-4453-b9cf-e694ecf7d8f6/'target='_blank'>Ver</a>"
+    },
+    {
+        "Curso": "Testing & Quality Assurance: Guía para Pruebas de Software",
+        "Lugar": "Udemy",
+        "FechaExpedicion": "09-2023",
+        "Ambito": "Testing",
+        "Framework": "Testing",
+        "VerCertificado": "<a href='https://www.udemy.com/certificate/UC-cfb9113a-4241-4371-a4a1-452a2baa2c06/'target='_blank'>Ver</a>"
+    },
+    {
+        "Curso": "Testing Manual de Software ",
+        "Lugar": "Instituto Web",
+        "FechaExpedicion": "08-2023",
+        "Ambito": "Testing",
+        "Framework": "Testing",
+        "VerCertificado": "<a href='https://www.institutoweb.com.ar/certificadosqa/docs/certificado_Agustina_Di_Natale.pdf'target='_blank'>Ver</a>"
+    },
+    {
+        "Curso": "Complete Katalon Studio 2020 for Web + API Test Automation",
+        "Lugar": "Udemy",
+        "FechaExpedicion": "09-2023",
+        "Ambito": "Testing",
+        "Framework": "Katalon",
+        "VerCertificado": "<a href='https://udemy.com/certificate/UC-3541e6ab-199d-4997-a789-0c37629650db/'target='_blank'>Ver</a>"
+    },
+    {
+        "Curso": "Cypress: Master en automatización Test QA (En Español)",
+        "Lugar": "Udemy",
+        "FechaExpedicion": "09-2023",
+        "Ambito": "Testing",
+        "Framework": "Cypress",
+        "VerCertificado": "<a href='https://udemy.com/certificate/UC-a954ecc7-3fda-4eec-a589-4b1193535c46/'target='_blank'>Ver</a>"
+    },
+    {
+        "Curso": "Software Testing avanzado: Lidera las pruebas de tu equipo",
+        "Lugar": "Udemy",
+        "FechaExpedicion": "08-2023",
+        "Ambito": "Testing",
+        "Framework": "Testing",
+        "VerCertificado": "<a href='https://www.udemy.com/certificate/UC-98ab05b8-90a2-4075-b08a-a48585aedebf/'target='_blank'>Ver</a>"
+    },
+    {
+        "Curso": "API Testing con Postman",
+        "Lugar": "Udemy",
+        "FechaExpedicion": "07-2023",
+        "Ambito": "Automation Testing",
+        "Framework": "Postman",
+        "VerCertificado": "<a href='https://www.udemy.com/certificate/UC-88b80afe-2108-496d-9221-26632d6efc5d/'target='_blank'>Ver</a>"
+    },
+    {
+        "Curso": "Aprende a automatizar con Katalon Studio",
+        "Lugar": "Udemy",
+        "FechaExpedicion": "07-2023",
+        "Ambito": "Automation Testing",
+        "Framework": "Katalon",
+        "VerCertificado": "<a href='https://udemy.com/certificate/UC-d91ca5f7-1f85-4747-9827-5e1f8a1c9f22/'target='_blank'>Ver</a>"
+    },
+    {
+        "Curso": "Automation Tester Avanzado: REST Assured, Cucumber y Groovy",
+        "Lugar": "Udemy",
+        "FechaExpedicion": "07-2023",
+        "Ambito": "Automation Testing",
+        "Framework": "Rest Assured",
+        "VerCertificado": "<a href='https://udemy.com/certificate/UC-3e94f98b-8e99-4f84-a124-6058df330171/'target='_blank'>Ver</a>"
+    },
+    {
+        "Curso": "Bases de datos y SQL para testers",
+        "Lugar": "Udemy",
+        "FechaExpedicion": "07-2023",
+        "Ambito": "Testing",
+        "Framework": "SQL",
+        "VerCertificado": "<a href='https://udemy.com/certificate/UC-8ded9fbc-c32b-4362-abc4-338dbbdb27ed/'target='_blank'>Ver</a>"
+    },
+    {
+        "Curso": "Introducción al testing de software",
+        "Lugar": "Udemy",
+        "FechaExpedicion": "07-2023",
+        "Ambito": "Testing",
+        "Framework": "",
+        "VerCertificado": "<a href='https://udemy.com/certificate/UC-1516ec38-098e-444c-bd93-418b10160941/' target='_blank'>Ver</a>"
+    },
+    {
+        "Curso": "Programación para Testers: Todo lo que necesitas saber!",
+        "Lugar": "Udemy",
+        "FechaExpedicion": "07-2023",
+        "Ambito": "Testing",
+        "Framework": "",
+        "VerCertificado": "<a href='https://udemy.com/certificate/UC-891d3ddf-a907-462d-ba03-a7f78abddf44/'target='_blank'>Ver</a>"
+    },
+    {
+        "Curso": "SonarQube y SonarCloud",
+        "Lugar": "Udemy",
+        "FechaExpedicion": "07-2023",
+        "Ambito": "Testing",
+        "Framework": "SonarQube",
+        "VerCertificado": "<a href='https://udemy.com/certificate/UC-735f742c-e743-4224-b24b-93eaa9f05e55/'target='_blank'>Ver</a>"
+    },
+    {
+        "Curso": "Curso de Testing Mobile y de Videojuegos",
+        "Lugar": "Academia QA",
+        "FechaExpedicion": "02-2023",
+        "Ambito": "Mobile Testing",
+        "Framework": "",
+        "VerCertificado": "<a href='https://drive.google.com/file/d/1b3KYlqC2l578paAWWgDCesPklBS1PWAk/view' target='_blank'>Ver</a>"
+    },
+    {
+        "Curso": "Dev tools para testers",
+        "Lugar": "Udemy",
+        "FechaExpedicion": "02-2023",
+        "Ambito": "Testing",
+        "Framework": "",
+        "VerCertificado": "<a href='https://udemy-certificate.s3.amazonaws.com/image/UC-83997157-2bdc-4a96-886e-a4fe63155f19.jpg' target='_blank'>Ver</a>"
+    },
+    {
+        "Curso": "Gestionar la Calidad del Código Fuente con SonarQube",
+        "Lugar": "Udemy",
+        "FechaExpedicion": "02-2023",
+        "Ambito": "Testing",
+        "Framework": "SonarQube",
+        "VerCertificado": "<a href='https://udemy-certificate.s3.amazonaws.com/pdf/UC-1f6847d1-66ce-45ea-8f7f-1e720fbcb26f.pdf' target='_blank'>Ver</a>"
+    },
+    {
+        "Curso": "Testing en contextos ágiles",
+        "Lugar": "Udemy",
+        "FechaExpedicion": "02-2023",
+        "Ambito": "Testing",
+        "Framework": "Metodología",
+        "VerCertificado": "<a href='https://udemy-certificate.s3.amazonaws.com/image/UC-118048c9-8d3d-4131-8cf6-9f72e2a9e257.jpg' target='_blank'>Ver</a>"
+    },
+    {
+        "Curso" : "Testing exploratorio para agilizar tus pruebas",
+        "Lugar" : "Udemy",
+        "FechaExpedicion" : "02-2023",
+        "Ambito" : "Testing",
+        "Framework" : "Metodología",
+        "VerCertificado" : "<a href='https://udemy-certificate.s3.amazonaws.com/pdf/UC-4a313505-749e-4e22-8522-8a17a503f46e.pdf' target='_blank'>Ver</a>"
+    },
+    {
+        "Curso" : "Trabajar con OKRs: Conocimientos y Creencias Fundamentales",
+        "Lugar" : "Udemy",
+        "FechaExpedicion" : "01-2023",
+        "Ambito" : "Metodologías",
+        "Framework" : "Metodología",
+        "VerCertificado" : "<a href='https://udemy-certificate.s3.amazonaws.com/pdf/UC-9eb70979-ea12-4d9f-af78-9773a3bca47c.pdf' target='_blank'>Ver</a>"
+    },
+    {
+        "Curso" : "Master: Katalon Studio Test QA Automation",
+        "Lugar" : "Udemy",
+        "FechaExpedicion" : "12-2023",
+        "Ambito" : "Automation Testing",
+        "Framework" : "Katalon",
+        "VerCertificado" : "<a href='https://drive.google.com/file/d/1C8iW_L32RGNa01u_X87e1Y5FfKwcrgct/view?usp=drivesdk' target='_blank'>Ver</a>"
+    },
+    {
+        "Curso" : "Ciberseguridad",
+        "Lugar" : "Academia BA Emprende",
+        "FechaExpedicion" : "07-2022",
+        "Ambito" : "Ciberseguridad",
+        "Framework" : "Ciberseguridad",
+        "VerCertificado" : "<a href='https://drive.google.com/file/d/1LJsB5MRwiOssXlRS0IdzRNG_2acK4quV/view?usp=sharing' target='_blank'>Ver</a>"
+    },
+    {
+        "Curso" : "Automation Marketing",
+        "Lugar" : "Doppler",
+        "FechaExpedicion" : "07-2022",
+        "Ambito" : "Marketing",
+        "Framework" : "",
+        "VerCertificado" : "<a href='https://drive.google.com/file/d/1RVpktYGrdZzlgtEE-bQoQAGwXNceVShs/view?usp=sharing' target='_blank'>Ver</a>"
+    },
+    {
+        "Curso" : "Ciberseguridad II",
+        "Lugar" : "Academia BA Emprende",
+        "FechaExpedicion" : "07-2022",
+        "Ambito" : "Ciberseguridad",
+        "Framework" : "Ciberseguridad",
+        "VerCertificado" : "<a href='https://drive.google.com/file/d/1T7g1DiXsg5fmdur1wwsdvmItq897Z8B6/view?usp=sharing' target='_blank'>Ver</a>"
+    },
+    {
+        "Curso" : "Consultas en SQL para principiantes",
+        "Lugar" : "Udemy",
+        "FechaExpedicion" : "06-2022",
+        "Ambito" : "Base de datos",
+        "Framework" : "SQL",
+        "VerCertificado" : "<a href='https://udemy-certificate.s3.amazonaws.com/pdf/UC-0e491e04-7350-44e3-9032-c19768ec8f9c.pdf' target='_blank'>Ver</a>"
+    },
+    {
+        "Curso" : "Software Testing de aplicaciones. Postman. Testing de API ",
+        "Lugar" : "Udemy",
+        "FechaExpedicion" : "06-2022",
+        "Ambito" : "Automation Testing",
+        "Framework" : "Postman",
+        "VerCertificado" : "<a href='https://udemy-certificate.s3.amazonaws.com/pdf/UC-d9249145-67c4-4323-814a-887990b1bd87.pdf' target='_blank'>Ver</a>"
+    },
+    {
+        "Curso" : "Master: Pruebas de Rendimiento con APACHE JMETER (ESPAÑOL)",
+        "Lugar" : "Udemy",
+        "FechaExpedicion" : "05-2022",
+        "Ambito" : "Automation Testing",
+        "Framework" : "JMeter",
+        "VerCertificado" : "<a href='https://udemy-certificate.s3.amazonaws.com/pdf/UC-89241c01-e6e9-47c8-a691-0eb2130e94d2.pdf' target='_blank'>Ver</a>"
+    },
+    {
+        "Curso" : "Inglés de Negocios: Vocabulario y Expresiones Esenciales",
+        "Lugar" : "Udemy",
+        "FechaExpedicion" : "04-2022",
+        "Ambito" : "Idiomas",
+        "Framework" : "",
+        "VerCertificado" : "<a href='https://udemy-certificate.s3.amazonaws.com/pdf/UC-f0d6f469-983c-4fcc-b8de-f5cf5f2e4fd8.pdf' target='_blank'>Ver</a>"
+    },
+    {
+        "Curso" : "Software Testing desde Cero : MasterClass todo en 1 (2022)",
+        "Lugar" : "Udemy",
+        "FechaExpedicion" : "04-2022",
+        "Ambito" : "Testing",
+        "Framework" : "",
+        "VerCertificado" : "<a href='https://udemy-certificate.s3.amazonaws.com/pdf/UC-4fdaac41-81f5-4372-91bb-a2b45023875f.pdf' target='_blank'>Ver</a>"
+    },
+    {
+        "Curso" : "TESTER - Curso de Formacion Profesional",
+        "Lugar" : "Trabajadores Informáticos",
+        "FechaExpedicion" : "12-2021",
+        "Ambito" : "Testing",
+        "Framework" : "Testing",
+        "VerCertificado" : "<a href='https://drive.google.com/file/d/1ATUAR0hpYxsDPyTu0W4rVbJi-Ot4bIlE/view?usp=drivesdk' target='_blank'>Ver</a>"
+    },
+    {
+        "Curso" : "INTRODUCCIÓN AL TRABAJO INFORMÁTICO",
+        "Lugar" : "Trabajadores Informáticos",
+        "FechaExpedicion" : "11-2021",
+        "Ambito" : "Testing",
+        "Framework" : "",
+        "VerCertificado" : "<a href='https://drive.google.com/file/d/1ZcxbdKnysjZXrLyO0lHQTUHkVb8BCfmC/view?usp=sharing' target='_blank'>Ver</a>"
+    },
+    {
+        "Curso" : "Testing Manual, Ágil y con herramientas",
+        "Lugar" : "Extensión Universitaria - UTN Buenos Aires",
+        "FechaExpedicion" : "12-2021",
+        "Ambito" : "Testing",
+        "Framework" : "Testing",
+        "VerCertificado" : "<a href='https://sceu-utnba.bitrix24.es/~Ezxwo' target='_blank'>Ver</a>"
+    },
+    {
+        "Curso" : "Selenium esencial",
+        "Lugar" : "LinkedIn",
+        "FechaExpedicion" : "10-2021",
+        "Ambito" : "Testing",
+        "Framework" : "Selenium",
+        "VerCertificado" : "<a href='https://drive.google.com/file/d/1cIf6xRefFWqDyy9If0cNpp2jwoTkM36V/view?usp=sharing' target='_blank'>Ver</a>"
+    },
+    {
+        "Curso" : "JMeter: Performance and Load Testing",
+        "Lugar" : "LinkedIn",
+        "FechaExpedicion" : "09-2021",
+        "Ambito" : "Testing",
+        "Framework" : "JMeter",
+        "VerCertificado" : "<a href='https://drive.google.com/file/d/1HAHfwg7x5SlTaCI-3PrtXEINN7oYOs8n/view?usp=sharing' target='_blank'>Ver</a>"
+    },
+    {
+        "Curso" : "Test Automation Foundations",
+        "Lugar" : "LinkedIn",
+        "FechaExpedicion" : "09-2021",
+        "Ambito" : "Automation Testing",
+        "Framework" : "",
+        "VerCertificado" : "<a href='https://drive.google.com/file/d/1tAZ3EjiL6FJ9L12xDjLAhQdSDl37Yj5c/view?usp=sharing' target='_blank'>Ver</a>"
+    },
+    {
+        "Curso" : "Agile and Scrum Testing",
+        "Lugar" : "Udemy",
+        "FechaExpedicion" : "08-2021",
+        "Ambito" : "Metodologías",
+        "Framework" : "Metodología",
+        "VerCertificado" : "<a href='https://www.udemy.com/certificate/UC-da0f28bd-ec28-4597-837e-4cded27d39ad/' target='_blank'>Ver</a>"
+    },
+    {
+        "Curso" : "Fundamentos de Base de Datos",
+        "Lugar" : "Instrucción Ágil",
+        "FechaExpedicion" : "08-2021",
+        "Ambito" : "Base de datos",
+        "Framework" : "SQL",
+        "VerCertificado" : "<a href='https://drive.google.com/file/d/105P6puifMor3TiR8FHT1CCAiWBPY70Xp/view?usp=sharing' target='_blank'>Ver</a>"
+    },
+    {
+        "Curso" : "Automatización de Pruebas con Katalon Studio 2021",
+        "Lugar" : "Udemy",
+        "FechaExpedicion" : "07-2021",
+        "Ambito" : "Automation Testing",
+        "Framework" : "Katalon",
+        "VerCertificado" : "<a href='https://www.udemy.com/certificate/UC-d6d98f27-a0ca-4dbb-8259-ebbfe3430477/' target='_blank'>Ver</a>"
+    },
+    {
+        "Curso" : "Email Automation Marketing12 Marketing",
+        "Lugar" : "Doppler",
+        "FechaExpedicion" : "07-2021",
+        "Ambito" : "Marketing",
+        "Framework" : "",
+        "VerCertificado" : "<a href='https://drive.google.com/file/d/1Fu9vdc7SKxb68zcLqO6NRiWN3tXjaZc7/view?usp=sharing' target='_blank'>Ver</a>"
+    },
+    {
+        "Curso" : "Fundamentos del SEO",
+        "Lugar" : "Doppler",
+        "FechaExpedicion" : "07-2021",
+        "Ambito" : "Marketing",
+        "Framework" : "SEO",
+        "VerCertificado" : "<a href='https://drive.google.com/file/d/1BvogoH_bFOC0nvgEBqCGKh1iYEK2fs4f/view?usp=sharing' target='_blank'>Ver</a>"
+    },
+    {
+        "Curso" : "DevOps - Introducción y Fundamentos no técnicos",
+        "Lugar" : "Udemy",
+        "FechaExpedicion" : "06-2021",
+        "Ambito" : "Devops",
+        "Framework" : "",
+        "VerCertificado" : "<a href='ude.my/UC-128a8b16-61a5-4cc8-b8d4-41569dcb86cf' target='_blank'>Ver</a>"
+    },
+    {
+        "Curso" : "QA Automation Testing Mobile con TestProject 2021",
+        "Lugar" : "Udemy",
+        "FechaExpedicion" : "07-2021",
+        "Ambito" : "Automation Testing",
+        "Framework" : "Testproject",
+        "VerCertificado" : "<a href='https://www.udemy.com/certificate/UC-c13d93b4-1227-49e3-a79a-1992f16827ed/' target='_blank'>Ver</a>"
+    },
+    {
+        "Curso" : "Fundamentos de Automation Testing",
+        "Lugar" : "Tecamia",
+        "FechaExpedicion" : "06-2021",
+        "Ambito" : "Automation Testing",
+        "Framework" : "",
+        "VerCertificado" : "<a href='https://www.seguridadcero.com.pe/automation/agusdinatale96@gmail.com.pdf' target='_blank'>Ver</a>"
+    },
+    {
+        "Curso" : "Javascript",
+        "Lugar" : "SoloLearn",
+        "FechaExpedicion" : "06-2021",
+        "Ambito" : "Desarrollo",
+        "Framework" : "Javascript",
+        "VerCertificado" : "<a href='https://www.sololearn.com/certificates/course/en/21591956/1024/landscape/png' target='_blank'>Ver</a>"
+    },
+    {
+        "Curso" : "Learn Microsoft Teams",
+        "Lugar" : "Udemy",
+        "FechaExpedicion" : "06-2021",
+        "Ambito" : "Microsoft Teams",
+        "Framework" : "",
+        "VerCertificado" : "<a href='ude.my/UC-3e901d9a-6416-44f3-b705-39f9df8dc425' target='_blank'>Ver</a>"
+    },
+    {
+        "Curso" : "jQuery",
+        "Lugar" : "SoloLearn",
+        "FechaExpedicion" : "06-2021",
+        "Ambito" : "Desarrollo",
+        "Framework" : "jQuery",
+        "VerCertificado" : "<a href='https://www.sololearn.com/Certificate/1082-21591956/pdf/' target='_blank'>Ver</a>"
+    },
+    {
+        "Curso" : "CSS3",
+        "Lugar" : "SoloLearn",
+        "FechaExpedicion" : "04-2021",
+        "Ambito" : "Desarrollo",
+        "Framework" : "CSS3",
+        "VerCertificado" : "<a href='https://www.sololearn.com/Certificate/1023-21591956/pdf/' target='_blank'>Ver</a>"
+    },
+    {
+        "Curso" : "HTML5",
+        "Lugar" : "SoloLearn",
+        "FechaExpedicion" : "04-2021",
+        "Ambito" : "Desarrollo",
+        "Framework" : "HTML5",
+        "VerCertificado" : "<a href='https://www.sololearn.com/Certificate/1014-21591956/pdf/' target='_blank'>Ver</a>"
+    },
+    {
+        "Curso" : "Responsive Web Design",
+        "Lugar" : "SoloLearn",
+        "FechaExpedicion" : "04-2021",
+        "Ambito" : "Desarrollo",
+        "Framework" : "",
+        "VerCertificado" : "<a href='https://www.sololearn.com/Certificate/1162-21591956/pdf/' target='_blank'>Ver</a>"
+    },
+    {
+        "Curso" : "Community Manager",
+        "Lugar" : "China Rodríguez",
+        "FechaExpedicion" : "07-2018",
+        "Ambito" : "Community Manager",
+        "Framework" : "",
+        "VerCertificado" : "<a href='https://drive.google.com/file/d/15osK0TEvAKy6slG_5nLkPLZB3ohfvCB2/view?usp=sharing' target='_blank'>Ver</a>"
+    }
+]
