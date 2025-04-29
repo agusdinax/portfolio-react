@@ -6,7 +6,7 @@ const socialLinks = [
   { href: 'https://www.linkedin.com/in/agusdinax/', icon: <FaLinkedin />, title: 'LinkedIn', id: 'linkedin-tooltip' },
   { href: 'https://github.com/agusdinax', icon: <FaGithub />, title: 'GitHub', id: 'github-tooltip' },
   { href: 'https://www.behance.net/agusdinax', icon: <FaBehance />, title: 'Behance', id: 'behance-tooltip' },
-  { href: 'https://agusdinaportfolio.000webhostapp.com/', icon: <FaGlobe />, title: 'Web Personal', id: 'web-tooltip' },
+  { href: 'https://agusdinatale-portfolio.vercel.app/', icon: <FaGlobe />, title: 'Web Personal', id: 'web-tooltip' },
 ];
 
 const SocialIcons: React.FC = () => (
