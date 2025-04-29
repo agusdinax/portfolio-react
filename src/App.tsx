@@ -10,6 +10,7 @@ import CallToAction from './components/CallToAction';
 import PortfolioSection from './components/PortfolioSection';
 import GithubProjects from './components/GithubProjects';
 import ContactForm from './components/ContactForm';
+import './styles/styles.css'; 
 
 function App() {
   return (
