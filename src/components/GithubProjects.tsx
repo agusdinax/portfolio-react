@@ -36,7 +36,7 @@ const GithubProjects = () => {
             <div className="col-md-6 col-lg-4 mb-2" key={repo.id}>
               <div className="card h-100 bg-secondary text-light">
                 <div className="card-body">
-                  <h5 className="card-title">{repo.name}</h5>
+                  <h5 className="card-title text-white fw-bold">{repo.name}</h5>
                   <p className="card-text">{repo.description || 'Sin descripción'}</p>
                   <p className="text-warning">{repo.language}</p>
                   <a href={repo.html_url} target="_blank" rel="noopener noreferrer" className="btn btn-primary mt-2">
