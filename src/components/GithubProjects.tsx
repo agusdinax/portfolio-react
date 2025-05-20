@@ -11,7 +11,7 @@ type Repo = {
   fork: boolean;  // Añadir la propiedad 'fork' aquí
 };
 
-const specificRepos = ['qa-playwright-allure', 'qa-selenium-python-allure', 'GROOVY-RESTASSURED-TESTNG-API'];
+const specificRepos = ['CounterApp', 'CalculadoraApp', 'qa-playwright-allure', 'qa-selenium-python-allure', 'GROOVY-RESTASSURED-TESTNG-API'];
 
 const GithubProjects = () => {
   const [repos, setRepos] = useState<Repo[]>([]);
